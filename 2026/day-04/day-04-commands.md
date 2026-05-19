@@ -14,3 +14,5 @@ Systemd Related commands
 #systemctl is-active sshd                                           To check sshd is running or not
 #journalctl -u sshd -f                                              To check sshd latest logs
 #journcalctl -u sshd -n 50                                          To check latest sshd 50 logs
+
+
